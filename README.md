@@ -1,5 +1,5 @@
 - 🚀  **cosmosapien** from planet Ziqx
-- 👋  Send me hy [@fathah_crg](https://instagram.com/fathah_crg)
+- 👋  [explore me](https://fathah.ziqx.in)
 
 <!---
 fathah/fathah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
