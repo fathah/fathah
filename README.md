@@ -5,6 +5,34 @@
   
 </p>
 
+### 📊 System Metrics & Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fathah&theme=dark&hide_border=true&area=true&bg_color=0D1117" width="100%" />
+</p>
+
+<div align="center">
+  <table border="0" width="100%" style="max-width: 900px;">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fathah&theme=dark" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fathah&theme=dark&utcOffset=4" width="100%" />
+      </td>
+    </tr>
+     <tr>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fathah&theme=dark" width="100%" />
+      </td>
+      <td align="center" width="50%">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fathah&theme=dark" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
